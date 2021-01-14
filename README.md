@@ -18,4 +18,4 @@ BACK END: PHP
 
 DATABASE: MySQL
 
-The Website is Hosted at 000webhost.
+The Website is Hosted at 000webhost. https://srishtiproject1.000webhostapp.com/
