@@ -19,3 +19,5 @@ BACK END: PHP
 DATABASE: MySQL
 
 The Website is Hosted at 000webhost. https://srishtiproject1.000webhostapp.com/
+
+Linkedin post: https://www.linkedin.com/posts/srishti-pandey-77a14a1a4_thesparksfoundation-grip-tsf-activity-6755573246873104384-P1Pd
